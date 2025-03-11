@@ -6,7 +6,7 @@ config = {
     'host': 'localhost',
     'user': 'root',
     'password': 'oracle',
-    'database': 'db_taller23270051'
+    'database': 'db_taller23270049'
 }
 
 def connect_db():
